@@ -1,18 +1,3 @@
 # unlock
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> 用Vue 来写的一个 类似苹果手机额 滑动解锁事件用juqery的话是比较简单，所以试试用vue实现是否比较实用
+>是用touchstart touchmove touchend 和clienLeft clientX 来实现处罚和计算的
